@@ -6,7 +6,7 @@ I'm an M.Tech Computer Science and Information Security student at the Internati
 
 - C++ | Python
 - Web development
-- Git | GitHub
+- Git | Linux
 
 ### 🌟 Projects
 
