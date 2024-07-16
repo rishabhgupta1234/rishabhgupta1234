@@ -1,12 +1,11 @@
 ## Hey there! 👋 I'm Rishabh Gupta
 
-I'm an M.Tech Computer Science and Information Security student at the International Institute of Information Technology, Hyderabad, and I am passionate about leveraging technology to solve real-world problems. My focus lies in Web development and Machine Learning.
+I'm currently working as an SDE at Nxtwave. I completed my master's from the International Institute of Information Technology, Hyderabad, and I am passionate about leveraging technology to solve real-world problems. My focus lies in Web development and Machine Learning.
 
 ### 🔧 Skills
 
-- C++ | Python
-- Web development
-- Git | Linux
+- C++ | Python | Nodejs | Reactjs
+- Git | Linux | Docker | Kafka
 
 ### 🌟 Projects
 
