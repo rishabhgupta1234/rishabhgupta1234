@@ -4,7 +4,7 @@ I'm currently working as an SDE at Nxtwave. I completed my master's from the Int
 
 ### 🔧 Skills
 
-- C++ | Python | Nodejs | Reactjs
+- C++ | Python | Reactjs | Nodejs
 - Git | Linux | Docker | Kafka
 
 ### 🌟 Projects
